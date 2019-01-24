@@ -8,4 +8,4 @@ The project was divided in tasks, and each one served the single purpose of cont
 
 Our professors actually set up a hall of fame for the best assignments, in which they can be played.
 
-#[Play the game](https://haslab.github.io/Teaching/LI1/1617_web/li1g156/web/G_2016li1g156.jsexe/run.html)
+# [Play the game](https://haslab.github.io/Teaching/LI1/1617_web/li1g156/web/G_2016li1g156.jsexe/run.html)
